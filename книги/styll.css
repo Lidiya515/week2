@@ -1,0 +1,60 @@
+body { 
+    background-color: antiquewhite;
+}
+.mama{
+    width: 90%;;
+    height: 900px;
+    background-color: burlywood;
+}
+.k{
+    width: 100%;
+    height: 200px;
+    background-color: black; 
+    border: 2px solid black; 
+}
+.a{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+}
+    
+.r{
+    width: 100%;
+    height: 100px;
+    background-color: black; 
+    border: 2px solid black; 
+}
+
+.leva{ 
+
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 600px;
+    background-color: aliceblue; 
+    border: 2px solid black; 
+}
+li {
+    padding-left: 20%;
+}
+.prava{ 
+
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: 600px;
+    background-color: aliceblue; 
+    border: 2px solid black; 
+}
+h1 { 
+    color: ivory;
+    margin-top: 50px ;
+    text-align: center;
+    
+}
+p{
+    font-size: 27px;
+    color: rgb(81, 245, 190);
+    text-align: center;
+}

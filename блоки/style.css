@@ -1,0 +1,124 @@
+*{
+    margin: auto;
+}
+body{
+    background-color: antiquewhite;
+}
+.mama{
+
+    width: 600px;
+    height: 300px;
+    background-color: aquamarine;
+}
+.a{
+
+    width: 600px;
+    height: 100px;
+    background-color: red;
+}
+.b{
+
+    width: 600px;
+    height: 100px;
+    background-color: green;
+}
+.c{
+
+    width: 600px;
+    height: 100px;
+    background-color:blue;
+}
+div{
+    width: 600px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.mama2 {
+    width: 600px;
+    height: 300px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+}
+.k{
+
+    width: 600px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+.a2{
+
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+.b2{
+
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+.c2{
+
+    width: 200px;
+    height: 100px;
+    background-color:blue;
+}
+.ka {
+    display: flex;
+    flex-direction: row;
+    width: 600px;
+    height: 100px;
+    background-color: yellow;
+}
+.k3{
+
+    width: 600px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+.v{
+
+    width: 300px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+}
+.v2{
+
+    width: 300px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+.mama3 {
+    width: 800px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(104, 189, 104);
+}
+.l {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+h3{
+    padding-right: 70px;
+    padding-bottom: 100px;
+}
+.l2 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.l3 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
